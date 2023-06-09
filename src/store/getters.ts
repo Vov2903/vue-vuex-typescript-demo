@@ -20,3 +20,4 @@ const getterTree: GetterTree<State, any> = {
 }
 
 export default getterTree
+        
