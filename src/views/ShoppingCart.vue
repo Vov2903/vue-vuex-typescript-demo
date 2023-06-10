@@ -16,4 +16,3 @@ import ShoppingCart from '@/components/ShoppingCart.vue'; // @ is an alias to /s
 })
 export default class Home extends Vue {}
 </script>
-        
