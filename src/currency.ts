@@ -17,4 +17,3 @@ export function currencyFilter(value: any, currency: any, decimals: any) {
     sign + currency + head + intVal.slice(i).replace(digitsRE, '$1,') + floatVal
   )
 }
-        
