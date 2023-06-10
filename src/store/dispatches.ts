@@ -9,3 +9,4 @@ export const dispatchCheckout = (products: CartProduct[]) => {
 export const dispatchAddToCart = (product: Product) => {
   return store.dispatch('addToCart', product)
 }
+        
