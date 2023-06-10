@@ -44,4 +44,3 @@ export interface CartProduct {
 export interface AddToCartPayload {
   id: number
 }
-        
