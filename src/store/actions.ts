@@ -16,4 +16,3 @@ const actions: ActionTree<State, any> = {
 }
 
 export default actions
-        
