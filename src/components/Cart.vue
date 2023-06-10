@@ -86,3 +86,4 @@ export default class Cart extends Vue {
   }
 }
 </script>
+        
